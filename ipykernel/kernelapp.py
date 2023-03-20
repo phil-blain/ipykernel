@@ -100,7 +100,7 @@ _ctrl_c_message = """\
 NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
 
 To exit, you will have to explicitly quit this process, by either sending
-"quit" from a client, or using Ctrl-\\ in UNIX-like environments.
+"quit" from a client, or using Ctrl-\\ (or Ctrl-4) in UNIX-like environments.
 
 To read more about this, see https://github.com/ipython/ipython/issues/2049
 
